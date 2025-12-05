@@ -110,7 +110,7 @@ Dashboard screenshots are stored in:
 
 Example file naming:
 
-- `Dashboard Visuals/2025-fitness-journey-dashboard.png`
+- `Movement_Analysis.png`
 
 The dashboard highlights:
 
@@ -154,3 +154,30 @@ The dashboard highlights:
 ## About
 
 This project documents a plus-size fitness journey where **consistency and resilience** matter more than size. The focus is on showing up daily, tracking effort honestly, and turning raw movement data into a story of growth.
+
+---
+
+## Insights & Commentary
+
+The dashboard highlights the following patterns in movement behavior across 2025:
+
+1. **High Consistency in Physical Activity**  
+   Most days fall into the *High* or *Moderate* activity category, showing strong daily engagement in movement and exercise routines.
+
+2. **Strong Endurance and Daily Coverage**  
+   Average results show:
+   - ~15,000 steps per day  
+   - ~12 km walking distance  
+   - ~138 minutes of exercise daily  
+   These metrics reflect sustained endurance levels rather than occasional spikes.
+
+3. **Weekly and Monthly Variability**  
+   Noticeable dips appear periodically — often aligning with recovery days — indicating a healthy balance between training load and rest.
+
+4. **Seasonal Peaks in Effort**  
+   Some calendar periods show recurring intensity surges, likely driven by personal challenges, motivation highs, or planned fitness pushes.
+
+5. **Overall Positive Health Trend**  
+   Despite fluctuations, the general trend shows improvement in consistency and volume of movement over the year.
+
+> This project demonstrates the story of a real fitness journey: disciplined, human, and data-driven.
